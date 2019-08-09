@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d25c57ab60cf6342a925970bd98a013
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knife: {fileID: 114785076623904672, guid: 74863e76566ee1b42ac697d165fbce11, type: 2}
+  - knifeDestructionEffect: {fileID: 1638401661086932, guid: d88b7889b06c0fc4f992e3f1cf396461,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
